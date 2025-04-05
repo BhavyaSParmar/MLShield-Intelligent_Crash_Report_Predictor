@@ -2,8 +2,6 @@
 
 This project focuses on predicting the severity of **driver injuries** and **vehicle damage** using supervised machine learning techniques. The model is trained on a dataset with features such as collision type, traffic conditions, weather, light conditions, and substance involvement.
 
-![Crash Reporting](https://user-images.githubusercontent.com/your_image_placeholder.png)
-
 ---
 
 ## 🧠 Objective
@@ -105,3 +103,7 @@ This dataset is the input for the machine learning model and contains features l
 
 Thanks to our professors and mentors for their guidance in this project. 🚦
 
+---
+
+## 📫 Contact
+Created with ❤️ by Bhavya Parmar, Drop a ⭐ if you like the project!
