@@ -2,7 +2,7 @@
 
 This project focuses on predicting the severity of **driver injuries** and **vehicle damage** using supervised machine learning techniques. The model is trained on a dataset with features such as collision type, traffic conditions, weather, light conditions, and substance involvement.
 
----
+--- 
 
 ## 🧠 Objective
 
